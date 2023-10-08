@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    display: block;
+}
+.green{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    display: block;
+}
+.blue{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    display: block;
+}
